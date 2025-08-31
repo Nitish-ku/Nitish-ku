@@ -42,7 +42,7 @@ Here are the technologies I use to bring my ideas to life:
 
 **2. dopeX**
 
-> A sophisticated full-stack application (MERN) featuring separate frontend and server components. Engineered with modern JavaScript best practices, this project showcases the ability to architect and organize multi-tier applications.
+> A full-stack MERN application featuring modular frontend and backend, built to demonstrate scalable architecture and modern development practices.
 >
 > <a href="https://dopex-frontend.onrender.com" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=Render&logoColor=white" /></a> > <a href="https://github.com/nitish-ku/dopex" target="_blank"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
