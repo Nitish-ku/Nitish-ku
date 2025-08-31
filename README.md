@@ -2,6 +2,8 @@
 
 <a href="https://www.linkedin.com/in/nitish-ku" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:nitish.ksharmaa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://x.com/pewcalypse" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://medium.com/@nitish-ku" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
 
 ---
 
@@ -19,40 +21,41 @@ My goal is to build a future where I can **teach, create, and inspire** at the i
 
 Here are the technologies I use to bring my ideas to life:
 
-| Frontend | Backend | Databases | Tools & Testing |
-|---|---|---|---|
-| <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> | <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> | <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> | <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> | <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> | | | <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> | | | <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> | | | |
+| Frontend                                                                                                             | Backend                                                                                                       | Databases                                                                                                        | Tools & Testing                                                                                                       |
+| -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />              | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />  | <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />       | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />                    |
+| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />     | <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> | <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> | <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />              |
+| <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />               |                                                                                                               |                                                                                                                  | <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />            |
+| <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />                 |                                                                                                               |                                                                                                                  | <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> |                                                                                                               |                                                                                                                  |                                                                                                                       |
 
 ---
 
 ### 🚀 My Star Projects
 
 **1. Digital Notebook**
+
 > A personal note-taking platform where users can intuitively manage their content through notebooks, chapters, and rich-text pages. It features secure user authentication via Clerk, an elegant editor with Tiptap, and a responsive design—perfect for organizing ideas and workflows.
-> 
-> <a href="https://digital-notebook-59e2.onrender.com" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=Render&logoColor=white" /></a>
-> <a href="https://github.com/nitish-ku/digital_notebook" target="_blank"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+>
+> <a href="https://digital-notebook-59e2.onrender.com" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=Render&logoColor=white" /></a> > <a href="https://github.com/nitish-ku/digital_notebook" target="_blank"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 **2. dopeX**
+
 > A sophisticated full-stack application (MERN) featuring separate frontend and server components. Engineered with modern JavaScript best practices, this project showcases the ability to architect and organize multi-tier applications.
-> 
-> <a href="https://dopex-frontend.onrender.com" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=Render&logoColor=white" /></a>
-> <a href="https://github.com/nitish-ku/dopex" target="_blank"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+>
+> <a href="https://dopex-frontend.onrender.com" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=Render&logoColor=white" /></a> > <a href="https://github.com/nitish-ku/dopex" target="_blank"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 **3. Backend of Blog Post**
+
 > A secure, RESTful backend for blogging platforms, built with Node.js, Express.js, and serverless PostgreSQL (Neon). It features user authentication, password hashing with bcrypt, and JWT-based authorization.
-> 
+>
 > <a href="https://github.com/nitish-ku/backendOfBlogApp" target="_blank"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 **4. Number Ninja**
+
 > A sleek mathematics-focused web tool built to sharpen your skills. Dive into interactive math practice delivered with precision and style via a Vite-powered frontend. It’s clean, fast, and fun.
-> 
-> <a href="https://numberninja.onrender.com" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=Render&logoColor=white" /></a>
-> <a href="https://github.com/nitish-ku/numberNinja" target="_blank"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+>
+> <a href="https://numberninja.onrender.com" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=Render&logoColor=white" /></a> > <a href="https://github.com/nitish-ku/numberNinja" target="_blank"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 ---
 
